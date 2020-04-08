@@ -1,0 +1,24 @@
+# ninja log v5
+0	649	608040119	CMakeFiles/VideoPlayer.dir/main.cpp.obj	dbd43ff38cd01685
+0	537	608040447	CMakeFiles/VideoPlayer.dir/main.cpp.obj	118e292043be997b
+540	818	608040448	VideoPlayer.exe	bdc53c88853c065
+0	316	608040640	VideoPlayer.exe	14da4a0a4728879c
+1	104	608040819	build.ninja	c40954e2aea9da07
+0	335	608040819	VideoPlayer.exe	6b072e96ba06c250
+1	121	608040831	build.ninja	c40954e2aea9da07
+1	100	608040849	build.ninja	c40954e2aea9da07
+0	98	608040855	build.ninja	c40954e2aea9da07
+1	102	608040860	build.ninja	c40954e2aea9da07
+1	317	608040860	VideoPlayer.exe	6b072e96ba06c250
+1	98	608040983	build.ninja	c40954e2aea9da07
+1	115	608041167	build.ninja	c40954e2aea9da07
+0	301	608041167	VideoPlayer.exe	6b072e96ba06c250
+1	101	608042024	build.ninja	c40954e2aea9da07
+1	806	608042025	CMakeFiles/VideoPlayer.dir/main.cpp.obj	dbd43ff38cd01685
+808	997	608042025	VideoPlayer.exe	e8e5b8f8959af1a2
+0	103	608042263	build.ninja	c40954e2aea9da07
+0	96	608042282	build.ninja	c40954e2aea9da07
+1	111	608042321	build.ninja	c40954e2aea9da07
+1	115	608042327	build.ninja	c40954e2aea9da07
+1	103	608042371	build.ninja	c40954e2aea9da07
+0	309	608042372	VideoPlayer.exe	e8e5b8f8959af1a2
